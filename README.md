@@ -2,11 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 * 🌍  I'm based in Trier, Germany
-* 🖥️  See my portfolio at [My Server](http://longrise.xyz)
-* ✉️  You can contact me at [philipp.reinholz@outlook.de](mailto:philipp.reinholz@outlook.de)
 * 🧠  I'm learning C++ and extending my knowledge around Python
 * 🤝  I'm open to collaborating on Cyber Security Projects
-* ⚡  Founder of LongRise
 
 ### Skills
 
