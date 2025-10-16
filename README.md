@@ -2,8 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 * 🌍  I'm based in Trier, Germany
-* 🧠  I'm learning C++ and extending my knowledge around Python
-* 🤝  I'm open to collaborating on Cyber Security Projects
+* 🧠  I'm trying to get a full stack developer
+* 🤝  I'm open to collaborate on Cyber Security Projects
 
 ### Skills
 
