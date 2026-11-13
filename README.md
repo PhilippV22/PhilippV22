@@ -1,18 +1,103 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Philipp Reinholz
-========================================================================================================================================
-
-* 🌍  I'm based in Trier, Germany
-* 🧠  I'm trying to get a full stack developer
-* 🤝  I'm open to collaborate on Cyber Security Projects
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<p align="center">
+  <a href="https://rl-mobile.de"><img src="assets/rl-mobile-hero.svg" alt="Philipp Reinholz · RL-Mobile. Handel denken. Systeme bauen. Die Software hinter RL-Mobile." width="100%" /></a>
 </p>
 
+<p align="center">
+  <a href="https://rl-mobile.de"><strong>RL-Mobile ↗</strong></a>
+  &nbsp; / &nbsp;
+  <a href="#was-ich-baue">Projekte</a>
+  &nbsp; / &nbsp;
+  <a href="#womit-ich-arbeite">Technik</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/PhilippV22?tab=repositories">Repositories</a>
+</p>
 
-### Socials
+## Moin, ich bin Philipp.
 
-<p align="left"> <a href="https://discord.com/users/_philippv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/PhilippV22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@philipp.v" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img url="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+Ich bin **Philipp Reinholz**, Inhaber von **RL-Mobile**. Mein Geschäft sind gebrauchte iPhones. Dafür entwickle ich die Software, die Geräte, Abläufe und Verkauf miteinander verbindet: Warenwirtschaft, Shopware-Erweiterungen, Automationen und ein eigenes KI-Büro.
+
+Mich interessiert, was im Alltag funktioniert. Ein Gerät durchläuft Ankauf, Lager, gegebenenfalls Reparatur, Verkauf und Versand. Meine Systeme bilden diese Schritte ab und verbinden die Werkzeuge dahinter.
+
+## Was ich baue
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / RL-ERP
+
+**Die Warenwirtschaft.** Geräteverwaltung, Ankauf, Lager, Reparatur, Verkauf und Versand. Dazu eBay- und Shopware-Abgleich, Dokumente und die gemeinsamen RL-Accounts.
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / RL-Base
+
+**Die gemeinsame Plattform.** Installation und Verwaltung der RL-Plugins über eine Oberfläche. Datenbank, verschlüsselte Backups, n8n und HTTPS als zentrale Basisdienste.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / RL-Office
+
+**Das KI-Büro.** Eine gemeinsame Oberfläche für Manager Mike, Marketing-Assistent Don und persönlichen Assistenten Vito. Mit Telegram-Anbindung und Werkzeugen für Aufgaben und Workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / RL-KABot
+
+**Workflows für den Ankauf.** Browser-Automation mit Playwright, n8n-Workflows, Bedienportal und Discord-Anbindung. Ergänzt um Bildvorbereitung für KI-Prüfungen und einen KI-Kostenwächter.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 / RL-Shopware
+
+**Der Shop und seine Erweiterungen.** Shopware 6.7 mit eigenen Plugins für Storefront-Design, ERP-Synchronisation, Produktstatistik, Google-Anbindung und Widerrufsformular.
+
+</td>
+<td width="50%" valign="top">
+
+### 06 / RL-Monitor
+
+**Der Blick auf den Server.** CPU, Arbeitsspeicher, Netzwerkverkehr und Prozesse in Echtzeit. Ein eigenständiger Dienst, der auch ohne RL-Office und RL-ERP funktioniert.
+
+</td>
+</tr>
+</table>
+
+Die RL-Systeme liegen in **privaten Repositories**. Hier zeige ich ihren Zweck und ihr Zusammenspiel.
+
+<p align="center">
+  <img src="assets/rl-ecosystem.svg" alt="RL-ERP, RL-Office, RL-KABot und RL-Shopware auf der gemeinsamen RL-Base. Zentrale Dienste: Datenbank, Backup, n8n und HTTPS. Ergänzt durch RL-Monitor." width="100%" />
+</p>
+
+## Womit ich arbeite
+
+| Bereich | Technik in meinen Projekten |
+| :--- | :--- |
+| Backend & Schnittstellen | Python · Flask · FastAPI · Node.js |
+| Oberflächen & Shop | JavaScript · HTML · CSS · PHP · Twig · Shopware |
+| Automation & KI | n8n · Playwright · KI-APIs · Telegram- und Discord-Anbindungen |
+| Betrieb & Daten | Linux · Docker Compose · MariaDB · Redis · restic · GitHub |
+
+Die RL-Plugins folgen einem gemeinsamen Aufbau: dieselbe `./rl`-Kommandozeile, Docker Compose, eine einheitliche Anmeldung für die angebundenen Anwendungen und gemeinsame Basisdienste. So können die Komponenten einzeln laufen und sich auf demselben Server verbinden.
+
+---
+
+<p align="center">
+  <strong>RL-Mobile — gebrauchte iPhones. Eigene Systeme dahinter.</strong><br />
+  <a href="https://rl-mobile.de">rl-mobile.de ↗</a>
+</p>
+
+<details>
+<summary>Zu den Projektangaben</summary>
+
+Die Beschreibungen wurden mit den Projekt-READMEs und den vorhandenen Markenunterlagen abgeglichen. [Grundlage und Pflegehinweise](docs/profile-facts.md).
+
+</details>
