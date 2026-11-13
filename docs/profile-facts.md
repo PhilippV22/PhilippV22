@@ -10,7 +10,8 @@ Inhaltlich geprüft am **13. November 2026**. Diese Datei dokumentiert die redak
 | Funktionen von RL-ERP, RL-Base, RL-Office, RL-KABot und RL-Monitor | READMEs der jeweiligen privaten RL-Repositories |
 | Shopware 6.7 und eigene Erweiterungen | READMEs von RL-Shopware und RL-Shopware-Plugins |
 | Technik | Projektquellen, Abhängigkeiten und Deployment-Dateien der genannten Systeme |
-| Farben und Logo | Vorhandene RL-Mobile-Markenunterlagen und Vektorlogo |
+| Farben und Typografie | Aktueller Shop auf https://rl-mobile.de: Weiß, Grau und Schwarz; Inter; bestätigt vom Inhaber |
+| Logo | Vorhandenes RL-Mobile-Vektorlogo |
 
 Die Grafiken zeigen die konzeptionelle Verbindung der Systeme. Sie sind keine Darstellung von Live-Auslastung, Betriebszustand oder gemessenen Ergebnissen.
 
