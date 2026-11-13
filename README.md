@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rl-mobile.de"><img src="assets/rl-mobile-hero.svg" alt="Philipp Reinholz · RL-Mobile. Handel denken. Systeme bauen. Die Software hinter RL-Mobile." width="100%" /></a>
+  <a href="https://rl-mobile.de"><img src="assets/rl-mobile-hero.svg?v=20261113-monochrome" alt="Philipp Reinholz · RL-Mobile. Handel denken. Systeme bauen. Die Software hinter RL-Mobile." width="100%" /></a>
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ Mich interessiert, was im Alltag funktioniert. Ein Gerät durchläuft Ankauf, La
 Die RL-Systeme liegen in **privaten Repositories**. Hier zeige ich ihren Zweck und ihr Zusammenspiel.
 
 <p align="center">
-  <img src="assets/rl-ecosystem.svg" alt="RL-ERP, RL-Office, RL-KABot und RL-Shopware auf der gemeinsamen RL-Base. Zentrale Dienste: Datenbank, Backup, n8n und HTTPS. Ergänzt durch RL-Monitor." width="100%" />
+  <img src="assets/rl-ecosystem.svg?v=20261113-monochrome" alt="RL-ERP, RL-Office, RL-KABot und RL-Shopware auf der gemeinsamen RL-Base. Zentrale Dienste: Datenbank, Backup, n8n und HTTPS. Ergänzt durch RL-Monitor." width="100%" />
 </p>
 
 ## Womit ich arbeite
